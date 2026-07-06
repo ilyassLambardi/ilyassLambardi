@@ -1,75 +1,122 @@
-### ilyassLambardi / README.md
+<div align="center">
 
-# 👋 Ilyass Lambardi
+# Hey, I'm Ilyass Lambardi
 
-![Static Badge](https://img.shields.io/badge/ML%20Engineer-%7C%20Data%20Scientist-6C63FF?style=flat-square)
-![Static Badge](https://img.shields.io/badge/aka-ilyassLambardi-333333?style=flat-square)
+**AI & Machine Learning Engineer | Deep Learning Practitioner**
 
-Welcome to my GitHub profile!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyasslambardi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flambardiilyass@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilyassLambardi)
 
-I just graduated in **Computer Science** this year, and I'm now building a **production-grade, end-to-end ML pipeline** — going from prototype to fully production-ready. I love **mathematics** and get my dopamine from solving hard problems. Outside of code, I'm usually at the **gym**, out for a **run**, or reading about **psychology**. You could say I just love building things that work in the real world.
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,tensorflow,pytorch,postgres,docker,fastapi,jupyter,git" />
-</p>
-
-<!--
-✏️ This uses skillicons.dev — edit the comma-separated list in the "i=" parameter
-to add/remove tools. Full list of supported icons: https://skillicons.dev
--->
+</div>
 
 ---
 
-<p align="center">
-  <!-- Replace this line with a coding-themed gif of your choice, e.g.: -->
-  <!-- <img src="https://your-preferred-coding-gif-url.gif" width="600"/> -->
-</p>
+### About Me
 
-*I love connecting with new people, so don't hesitate to reach out!*
+I'm an Artificial Intelligence and Machine Learning practitioner specialized in Deep Learning and ML Engineering. I design and build end-to-end AI systems — from mathematical foundations and research experiments to production-ready deployments.
 
-<p align="left">
-  <a href="https://x.com/ilyasslambardi" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:flambardiilyass@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Currently I'm focused on Conversational AI, NLP, and neural network architecture design, and I'm passionate about translating complex AI concepts into scalable, real-world applications.
+
+```python
+class IlyassLambardi:
+    role      = "AI & Machine Learning Engineer"
+    focus     = ["Deep Learning", "Conversational AI", "NLP"]
+    education = "Graduation Thesis: Bilingual Speech-to-Speech AI"
+    motto     = "From math to production."
+```
 
 ---
 
-### 📌 Pinned Projects
+### Tech Stack
 
-<!--
-Add your pinned projects here in this format, one block per project:
+<div align="center">
 
-#### [project-name](https://github.com/ilyassLambardi/project-name)
-Short description of what it does.
-`Language` · ⭐ stars
+**Languages**
 
-Repeat up to 6 times. Or use GitHub's native "Pin repositories" feature on your profile
-(Profile → Customize your pins) instead of listing manually here — GitHub will render
-them as cards automatically below your README.
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**AI Models & Frameworks**
+
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-Llama_|_Qwen-blueviolet?style=flat-square)
+![TTS](https://img.shields.io/badge/TTS-Silero_|_XTTSv2-green?style=flat-square)
+
+**Web & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### Featured Project
 
-<!--
-Add your contribution graph / stats widgets here, e.g.:
+<a href="https://github.com/ilyassLambardi/Bilingual-Voice-Ai-Application-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilyassLambardi&repo=Bilingual-Voice-Ai-Application-&theme=tokyonight&hide_border=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilyassLambardi&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyassLambardi&theme=radical" />
-
-Or rely on GitHub's built-in contribution calendar, which shows automatically
-on your profile page below the README.
--->
+**Bilingual Speech-to-Speech Conversational AI** — A real-time voice AI pipeline with streaming VAD → ASR → LLM → TTS. Supports English/German code-switching, language-aware persona, and a 3D WebGL frontend for immersive demos.
 
 ---
 
-<p align="center"><i>📍 Chengdu, China</i></p>
+### Core Competencies
+
+| Area | Skills |
+|------|--------|
+| **Deep Learning** | Neural network design, training, optimization, loss engineering |
+| **NLP** | Transformers, LLMs, ASR, TTS, conversational AI systems |
+| **ML Engineering** | Data pipelines, feature engineering, model evaluation, deployment |
+| **Mathematics** | Linear algebra, calculus, probability, optimization theory |
+| **Systems** | Real-time streaming, WebSocket, async pipelines, concurrency |
+
+---
+
+### What I Do
+
+- Design and train deep learning models using **PyTorch**
+- Implement ML algorithms from theory to production-ready prototypes
+- Build neural network architectures for **NLP** and **Conversational AI**
+- Engineer end-to-end ML pipelines with focus on reproducibility and scalability
+- Conduct experiments, analyze metrics, and optimize model performance
+- Apply mathematical foundations to AI system design
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ilyassLambardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyassLambardi&theme=tokyonight&hide_border=true" height="165" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassLambardi&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*"Translating mathematical concepts into scalable, efficient AI systems."*
+
+</div>
