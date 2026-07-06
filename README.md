@@ -6,12 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/aka-ilyassLambardi-333333?style=flat-square)
 
 Welcome to my GitHub profile!
+AI/Machine Learning enthusiast, Working towards fixing my flaws in the field to be better everyday
 
-Fresh CS grad. Currently deep in the trenches turning a working ML prototype into something that actually survives production.
-
-Math is where my brain feels most at home — I get an unreasonable amount of satisfaction from untangling a hard problem, whether it's a proof, a bug, or a model that refuses to converge. When I'm not staring at a terminal, I'm probably lifting, out on a run, or reading into psychology — mostly the "why" behind how people (and models) actually behave.
-
-No fluff here. Just someone who likes building things that hold up under real conditions.
 
 ---
 
