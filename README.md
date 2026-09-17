@@ -1,6 +1,6 @@
 # Ilyass Lambardi
 
-**ML Engineer · CS graduate · building production ML systems ·**
+**ML Engineer · CS graduate · building production ML systems **
 
 Hey it's me , I work on applied machine learning, NLP, voice AI, and end-to-end data products—from experimentation and model evaluation to APIs and deployment.
 
