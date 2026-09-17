@@ -52,19 +52,6 @@ Repository: [Supervised-end-to-end-project-on-tabular-Data](https://github.com/i
 
 ---
 
-## 🤝 Work With Me
-
-I’m open to collaborating on:
-
-- Applied AI and machine learning projects
-- NLP, voice AI, and intelligent automation
-- Data science and end-to-end ML systems
-- Innovative ideas that turn research into practical products
-
-If you’re working on something interesting, feel free to reach out — I’d be happy to connect and build together.
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
