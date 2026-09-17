@@ -6,7 +6,7 @@ Hey it's me , I work on applied machine learning, NLP, voice AI, and end-to-end 
 
 ## Core Technologies
 
-`Python` · `scikit-learn` · `PyTorch` · `TensorFlow` · `pandas` · `NumPy` · `SQL` · `Docker` · `FastAPI`· `Visualization`
+`Python` · `scikit-learn` · `PyTorch` · `TensorFlow` · `pandas` · `NumPy` · `SQL` · `Docker`· `git`· `FastAPI`· `Visualization`
 
 ## Selected Work
 
