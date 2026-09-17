@@ -1,12 +1,12 @@
 # Ilyass Lambardi
 
-**ML Engineer · CS graduate · building production ML systems · seeking Werkstudent roles in Germany (April 2027)**
+**ML Engineer · CS graduate · building production ML systems ·**
 
-Based in Germany, I work on applied machine learning, NLP, voice AI, and end-to-end data products—from experimentation and model evaluation to APIs and deployment.
+Hey it's me , I work on applied machine learning, NLP, voice AI, and end-to-end data products—from experimentation and model evaluation to APIs and deployment.
 
 ## Core Technologies
 
-`Python` · `scikit-learn` · `PyTorch` · `TensorFlow` · `pandas` · `NumPy` · `SQL` · `Docker` · `FastAPI`
+`Python` · `scikit-learn` · `PyTorch` · `TensorFlow` · `pandas` · `NumPy` · `SQL` · `Docker` · `FastAPI`· `Visualization`
 
 ## Selected Work
 
