@@ -52,11 +52,16 @@ Repository: [Supervised-end-to-end-project-on-tabular-Data](https://github.com/i
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Work With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyassLambardi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+I’m open to collaborating on:
+
+- Applied AI and machine learning projects
+- NLP, voice AI, and intelligent automation
+- Data science and end-to-end ML systems
+- Innovative ideas that turn research into practical products
+
+If you’re working on something interesting, feel free to reach out — I’d be happy to connect and build together.
 
 ---
 
